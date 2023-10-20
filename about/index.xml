@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joshuamtt_Blog</title>
-    <link>http://joshuamtt.github.io/</link>
+    <link>http://joshuamtt.github.io/about/</link>
     <description>Recent content on Joshuamtt_Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://joshuamtt.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://joshuamtt.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>http://joshuamtt.github.io/about/</link>
