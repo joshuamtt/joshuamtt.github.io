@@ -5,6 +5,25 @@
     <link>http://joshuamtt.github.io/categories/</link>
     <description>Recent content in Categories on joshuamtt_blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://joshuamtt.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://joshuamtt.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>project</title>
+      <link>http://joshuamtt.github.io/categories/project/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://joshuamtt.github.io/categories/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vsmp</title>
+      <link>http://joshuamtt.github.io/categories/vsmp/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://joshuamtt.github.io/categories/vsmp/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

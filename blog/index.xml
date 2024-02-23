@@ -1,27 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>joshuamtt_blog</title>
+    <title>Welcome to my blogs about...anything!! on joshuamtt_blog</title>
     <link>http://joshuamtt.github.io/blog/</link>
-    <description>Recent content on joshuamtt_blog</description>
+    <description>Recent content in Welcome to my blogs about...anything!! on joshuamtt_blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://joshuamtt.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://joshuamtt.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>http://joshuamtt.github.io/blog/testblogpist2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>(PROGRESS) VSMP intro/update.</title>
+      <link>http://joshuamtt.github.io/blog/vsmp_update_01-27/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://joshuamtt.github.io/blog/testblogpist2/</guid>
-      <description>Another test. Hey, another test.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://joshuamtt.github.io/blog/testblogpost1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://joshuamtt.github.io/blog/testblogpost1/</guid>
-      <description>Test Here is a test under the blog content folder.</description>
+      <guid>http://joshuamtt.github.io/blog/vsmp_update_01-27/</guid>
+      <description>This is a post introducing a project of mine called VSMP :) What is VSMP (Very Slow Movie Player)? It is pretty simple, it takes in an MP4 video will</description>
     </item>
     
   </channel>
